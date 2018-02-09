@@ -3561,3 +3561,36 @@ www.camwhores.cc##img[src="http://www.camwhores.tv/banners/1200x250_2.gif"]
 
 ! 01/01/2018, 15:32:44 http://www.camwhores.cc/videos/192804/1ustfu1-dv-nt-g3-21117-1/
 www.camwhores.cc##.topad > a[href^="https://go.stripchat.com/"]
+
+! 23/01/2018, 13:46:39 http://img-central.com/image/R49Gu
+img-central.com##body > center:nth-of-type(1)
+
+! 23/01/2018, 13:46:50 http://img-central.com/image/R49Gu
+img-central.com##td:nth-of-type(3)
+
+! 23/01/2018, 13:46:59 http://img-central.com/image/R49Gu
+img-central.com##td:nth-of-type(1)
+
+! 23/01/2018, 13:47:24 http://img-central.com/image/R49Gu
+img-central.com##center:nth-of-type(2)
+
+! 23/01/2018, 13:47:36 http://img-central.com/image/R49Gu
+img-central.com##center:nth-of-type(3)
+
+! 23/01/2018, 20:36:50 http://pornbimbo.com/models/mandy-flores/
+pornbimbo.com##.bottom-adv.box
+
+! 23/01/2018, 20:37:19 http://pornbimbo.com/video/2650/blonde-executrix-mandy
+pornbimbo.com##.top
+
+! 23/01/2018, 20:37:27 http://pornbimbo.com/video/2650/blonde-executrix-mandy
+pornbimbo.com##.table
+
+! 23/01/2018, 20:37:39 http://pornbimbo.com/video/2650/blonde-executrix-mandy
+pornbimbo.com##.sponsor
+
+! 23/01/2018, 20:37:51 http://pornbimbo.com/video/2650/blonde-executrix-mandy
+pornbimbo.com##.footer-margin > .content
+
+! 2/9/2018, 4:46:45 AM https://gonewild.co/49790/viking-barbie-jamie-wolf-premium-snapchat-part-1/
+||gonewild.co/zoho/gonewild.php$image
