@@ -3594,3 +3594,57 @@ pornbimbo.com##.footer-margin > .content
 
 ! 2/9/2018, 4:46:45 AM https://gonewild.co/49790/viking-barbie-jamie-wolf-premium-snapchat-part-1/
 ||gonewild.co/zoho/gonewild.php$image
+
+! 19/02/2018, 23:01:36 https://currencio.co/ltc/aud/
+currencio.co###ct_cwB0R29 > div
+
+! 19/02/2018, 23:01:51 https://currencio.co/ltc/aud/
+currencio.co##.ct_cZ4P48tbnc.ct_cZ4P48tr
+
+! 14/02/2018, 22:07:28 https://coinmarketcap.com/
+coinmarketcap.com###ct_70unrF
+
+! 16/02/2018, 17:45:17 http://b-ok.org/s/?q=quran&yearFrom=&yearTo=&language=&extension=&t=0
+b-ok.org##center:nth-of-type(3) > a[href^="http://witalfieldt.com/redirect"] > .ziggy_705137
+
+! 18/02/2018, 05:54:19 https://www7.kickassanime.io/anime/dragon-ball-z-dub/
+www7.kickassanime.io##div:nth-of-type(3) > div:nth-of-type(3) > div:nth-of-type(2)
+
+! 18/02/2018, 05:55:05 https://www7.kickassanime.io/anime/dragon-ball-z-dub/
+www7.kickassanime.io##.k2tFfl1hyJA9awJ
+
+! 18/02/2018, 05:55:18 https://www7.kickassanime.io/anime/dragon-ball-z-dub/
+www7.kickassanime.io##.k2tFfl1hyJA9awJ
+
+! 23/01/2018, 13:46:39 http://img-central.com/image/R49Gu
+img-central.com##body > center:nth-of-type(1)
+
+! 23/01/2018, 13:46:50 http://img-central.com/image/R49Gu
+img-central.com##td:nth-of-type(3)
+
+! 23/01/2018, 13:46:59 http://img-central.com/image/R49Gu
+img-central.com##td:nth-of-type(1)
+
+! 23/01/2018, 13:47:24 http://img-central.com/image/R49Gu
+img-central.com##center:nth-of-type(2)
+
+! 23/01/2018, 13:47:36 http://img-central.com/image/R49Gu
+img-central.com##center:nth-of-type(3)
+
+! 23/01/2018, 20:36:50 http://pornbimbo.com/models/mandy-flores/
+pornbimbo.com##.bottom-adv.box
+
+! 23/01/2018, 20:37:19 http://pornbimbo.com/video/2650/blonde-executrix-mandy
+pornbimbo.com##.top
+
+! 23/01/2018, 20:37:27 http://pornbimbo.com/video/2650/blonde-executrix-mandy
+pornbimbo.com##.table
+
+! 23/01/2018, 20:37:39 http://pornbimbo.com/video/2650/blonde-executrix-mandy
+pornbimbo.com##.sponsor
+
+! 23/01/2018, 20:37:51 http://pornbimbo.com/video/2650/blonde-executrix-mandy
+pornbimbo.com##.footer-margin > .content
+
+! 2/9/2018, 4:46:45 AM https://gonewild.co/49790/viking-barbie-jamie-wolf-premium-snapchat-part-1/
+||gonewild.co/zoho/gonewild.php$image
