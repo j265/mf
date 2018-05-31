@@ -706,3 +706,19 @@ www.camwhores.tv###list_videos_friends > .box
 cqyirsc.com
 
 zddxlih.com
+
+
+! 02/03/2018, 17:02:09 https://www.youtube.com/feed/trending
+www.youtube.com###contents > .ytd-section-list-renderer.style-scope:nth-of-type(2)
+
+! 05/03/2018, 18:48:05 https://tradingsim.com/blog/volume-analysis-technical-indicator/
+tradingsim.com###sticky-header
+
+! 20/04/2018, 21:08:28 https://www.youtube.com/
+www.youtube.com###contents > .ytd-section-list-renderer.style-scope:nth-of-type(4)
+
+! 31/05/2018, 18:47:03 https://www.futhead.com/18/players/58159/leroy-sane/
+www.futhead.com###cdm-zone-embed
+
+! 31/05/2018, 18:47:12 https://www.futhead.com/18/players/58159/leroy-sane/
+www.futhead.com###promo-content-embed
