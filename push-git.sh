@@ -1,5 +1,5 @@
 timestamp=$(echo `date`)
-cd /Users/rayyan/Gitlab/mf/
+cd /Volumes/Rayyan/Pi/Gitlab/mf/
 git add .
 git commit -m "Edit $timestamp"
 git push -u origin master

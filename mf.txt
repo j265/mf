@@ -722,3 +722,56 @@ www.futhead.com###cdm-zone-embed
 
 ! 31/05/2018, 18:47:12 https://www.futhead.com/18/players/58159/leroy-sane/
 www.futhead.com###promo-content-embed
+
+cqyirsc.com
+zddxlih.com
+
+! 02/03/2018, 17:02:09 https://www.youtube.com/feed/trending
+www.youtube.com###contents > .ytd-section-list-renderer.style-scope:nth-of-type(2)
+
+! 05/03/2018, 18:48:05 https://tradingsim.com/blog/volume-analysis-technical-indicator/
+tradingsim.com###sticky-header
+
+! 24/03/2018, 01:34:44 http://xyzimage.net/img-5a63e7ae8ac2b.html
+||xyzimage.net/topey.php?TlH=OztIcFReQXN8MAAsd3phUwk5Y2lSCQQLVFRTCDUCD3MCZ1ctQgwBYCcLVUxnBR4gU0EXLDUtVXhwKGNUXjsyZglYAwZVBgAMMw5YdlNgBX4RWgE2Ils%3D$image
+
+! 24/03/2018, 01:34:57 http://xyzimage.net/img-5a63e7ae8ac2b.html
+xyzimage.net##center:nth-of-type(2)
+
+! 24/03/2018, 01:35:12 http://xyzimage.net/img-5a63e7ae8ac2b.html
+xyzimage.net##center:nth-of-type(7)
+
+! 24/03/2018, 01:36:07 http://xyzimage.net/img-5a63e7ae8ac2b.html
+||xyzimage.net/topey.php?TlH=OztPclVWRHd8ZQQuJypjVgpuMjMOW1FTDlRSCzJSCCAFawMoE15QNHgOAxw2WR93VkEXLDUtBS8lfjUGCj4wMFxVBAUPW1AKMAJfJgExBXQRDAVhJw0%3D$image
+
+! 24/03/2018, 01:36:19 http://xyzimage.net/img-5a63e7ae8ac2b.html
+||xyzimage.net/topey.php?TlH=OztPclVWRHd8N1F6J3lmVVI%2BYGRbXAUCCFcGVmECXXBQN1cqQ1BSZHILVRo2XEtxA0EXLDUtUnR1cGZTU2JjM1JcA1RbVF1fMlZeIAVlVSgTCVdiIgs%3D$image
+
+! 04/04/2018, 03:45:14 http://cnbtspread.org/e77bbcb228a99a7dd185e2ec8e300d189df71e38/
+||ship.diyimh.com:81/daima/tupian/1.gif$image
+
+! 14/04/2018, 02:38:31 https://www.camsoda.com/aliceinvogue
+||icons.iconarchive.com/icons/bokehlicia/pacifica/256/amazon-icon.png$image
+
+! 16/04/2018, 02:55:16 https://www.fakedrivingschool.com/
+www.fakedrivingschool.com###catfish-banner
+
+! 11/05/2018, 13:06:58 http://www.caminspector.net/videos/38409/bbhater-fingering-in-private-premium-video-ef3ae5ab6330ae8e/
+www.caminspector.net##.table
+
+! 11/05/2018, 13:07:17 http://www.caminspector.net/videos/38409/bbhater-fingering-in-private-premium-video-ef3ae5ab6330ae8e/
+www.caminspector.net###ez8yj-iey4w-dv401
+
+! 25/05/2018, 20:21:06 https://pornnod.com/lordnladyweselton-video-20161118-152057_6b68322b2.html
+pornnod.com##.pm-ads-banner
+
+! 29/05/2018, 14:21:56 https://old.reddit.com/r/jkfilms_nsfw/new/
+old.reddit.com##.listingsignupbar.infobar
+
+! 30/05/2018, 03:42:57 https://old.reddit.com/r/jkfilms_nsfw/comments/8n2e8x/byron_still_be_checking_on_this_sub_reddit_you/?st=jhsi72rl&sh=340f78de
+old.reddit.com##.commentsignupbar.infobar
+
+! 03/06/2018, 19:01:43 https://recwebcam.com/thestellargf-2017-01-13-204847_0e3e7d6f9.html
+recwebcam.com##.pm-video-watch-main.col-md-8.col-sm-12.col-xs-12 > .pm-ads-banner
+
+zukxd6fkxqn.com
